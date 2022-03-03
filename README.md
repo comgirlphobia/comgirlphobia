@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/ego1337">
-    <img src="https://discord.c99.nl/widget/theme-1/857170308360175638.png"/>
-     </a>
-</p>
-
-<p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api/?username=ego1337&title_color=010101&text_color=010101&show_icons=true&bg_color=00000000&hide_border=true&icon_color=010101&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
